@@ -15,7 +15,7 @@ sigma = 0.15
 t = 0.0
 n_events = 100
 for event in range(n_events):
-    wall_times = [wall_time(pos[i], vel[i], sigma) for i in range(2)]
+    wall_times = [wall_time(pos[i], vel[i], sigma ) for i in range(2)]
     next_event = min(wall_times)
     t += next_event
     for i in range(2): pos[i] += vel[i] * next_event
