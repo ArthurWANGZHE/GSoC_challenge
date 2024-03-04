@@ -22,7 +22,7 @@ color = (255, 0, 0)
 
 
 pos = [0.5 * win_size, 0.5 * win_size]
-vel = [100, 60]
+vel = [300, 200]
 
 dt = 0.01
 
