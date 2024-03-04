@@ -1,6 +1,7 @@
 #include<iostream>
 #include<map>
 #include<vector>
+#define rm cin.tie(nullptr)->sync_with_stdio(false),cout.setf(ios::fixed,ios::floatfield);
 using namespace std;
 
 int read()
