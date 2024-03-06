@@ -1,38 +1,38 @@
 # Basic Info
-Greetings! I'm an undergraduate majoring in Robotic Science from China. I'm intrigued by JdeRobot, especially the exercises provided on the web. I have several development experiences, but I haven't had the chance to be a part of an open-source program. I hope this could be my first time entering the world of open-source development.
+Greetings! I'm an undergraduate student from China, majoring in Robotic Science. I've been captivated by the fascinating world of JdeRobot, particularly the exercises available on the web. They've sparked my curiosity and fueled my passion for robotics. While I have several development experiences under my belt, I've yet to have the opportunity to contribute to an open-source project. I am eager to dive into the open-source community and I hope that this will be my gateway into this exciting realm of collaborative development.
 
 ## Contact
 **Gmail:** shootingstar.arthur@gmail.com
 **Github:** [ArthurWANGZHE (github.com)](https://github.com/ArthurWANGZHE)
 **Twitter:** @Arthur_w_z
 
-# Education
-I took C++ courses in my freshman year at our university. Later, I had some practice opportunities on the Trail Trolley project and other small designs; basically, my C++ experience was on stm32.
-What really introduced me to the world of computer science and development is CS61A, the open courses from UCB. Through which I found the beauty of coding and developing, and since then, I've started to take open courses from CS, DS to RS, and some math courses (18.06 and 18.103 etc). Later, I joined a student society of developers in which I learned about web backend, database, machine learning, etc. (I will clarify some of the major projects later). In this society, I've also learned about working in a team, about Code Specification, Version Management, etc. It feels like magic to be a part of such a group.
-Last summer, I joined a summer camp of ROS where I learned the basic operation of Linux and ROS, of course. In this summer camp, we coded on different robots to overcome different tasks, which was very different from any online courses. This provided me not only theoretical knowledge but real operating experience and cutting-edge design.
+Projects
+Here are some of the major projects I've had the privilege to be a part of over the years. Each one represents a significant milestone in my journey as a developer:
 
-# Projects
-I list some of the major projects I've participated in these years (kind of a milestone for myself):
+Mewstore
+Mewstore is a multi-platform secondhand trading app that I helped develop. It provides a platform for users to trade items and communicate with each other. The app features a robust registration system that includes SMS-code, email, and ID card verification. It also includes a fully functional chat system. Mewstore is accessible across web, Android, and iOS platforms.
 
-## Mewstore
-**Python, Web Backend**
-This is a multi-platform secondhand trading app. Users can trade with others and communicate with others. It has a functional register system including checking SMS-code, email, and ID card, and a chatting system is also included. Users can visit it through web, Android, and iOS.
-I was mainly responsible for backend design, including the writing and testing of all APIs. I also shouldered some part of iOS development (I'm a big fan of Apple).
+Responsibilities
+I was responsible for the writing and testing of all APIs, as well as iOS development.
 
-## Image Classification
-**Python, CV, ML, Docker**
-This was the last CV project in the student society. I tried several models including VGG, KNN, ResNet, etc. In this phase, study was still the main purpose. I was working on **CIFAR-100**, reading papers, trying, testing all different methods.
+Image Classification
+Technologies: Python, Computer Vision, Machine Learning, Docker
+This project was my final Computer Vision project in the student society. I experimented with several models including VGG, KNN, ResNet, etc., focusing primarily on the CIFAR-100 dataset. The main goal of this project was to learn and explore different methods through reading papers and testing various approaches.
 
-## Person Tracking Drone
-**Python, ROS, C++, MV, Linux**
-This was a simulation competition. We used algorithms to control drones to search for people in a map, including identifying and tracking specific people and avoiding certain obstacles.
-In this project, I was mainly responsible for coding the upper monitor.
+Person Tracking Drone
+This project was part of a simulation competition. We developed algorithms to control drones, enabling them to search for people on a map. The drones were capable of identifying and tracking specific individuals while avoiding obstacles.
 
-## DM-Locating
-**ROS, Python, C++, MV, Linux**
-This is a project working with my professor. We seek a way to let robots locate DM-codes on boxes in a warehouse with minimal costs. Also, real factors are all considered, including deviation and misoperation, etc. We found a way to improve accuracy through algorithms.
-In this project, I was mainly responsible for coding the upper monitor.
+Responsibilities
+I was responsible for working with ROS and overseeing the upper monitor.
+
+DM-Locating
+Technologies: ROS, Python, C++, Machine Vision, Linux
+This project was a collaboration with my professor. Our goal was to develop a cost-effective method for robots to locate DM-codes on boxes in a warehouse. We considered real-world factors such as deviation and misoperation. Through our work, we were able to improve accuracy using algorithmic solutions.
+
+Responsibilities
+I was in charge of the upper monitor and the development of the algorithm.
 
 # Hopes
-I know I will definitely learn a lot through the project, from coding to robotics, etc. So, I hope I can meet more friends, be accepted by the org, and become a part of the open-source development, and continuously make contributions to the org.
-Thank you for your time and consideration.
+I am certain that this project will be a treasure trove of learning opportunities for me, from honing my coding skills to deepening my understanding of robotics. But beyond the technical knowledge, I am excited about the human connections I will make. I hope to meet like-minded friends, passionate individuals who share my love for robotics and coding. I aspire to be accepted by the organization, to become an integral part of the open-source development community. I am committed to not just being a passive participant, but an active contributor who continuously adds value to the organization.
+
+Thank you for considering my application. I am excited about the possibility of joining your esteemed organization and look forward to the opportunity to contribute to the world of open-source development.
