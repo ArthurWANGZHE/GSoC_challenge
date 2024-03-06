@@ -1,4 +1,4 @@
-# ROS2 Hello World Example
+# ROS2 Hello World
 
 This repository contains a simple ROS2 (Robot Operating System 2) package named `hello_ros2`. The package includes two nodes: a publisher node and a subscriber node. The publisher node publishes messages, and the subscriber node listens to these messages.
 
