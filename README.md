@@ -6,26 +6,26 @@ Greetings! I'm an undergraduate student from China, majoring in Robotic Science.
 **Github:** [ArthurWANGZHE (github.com)](https://github.com/ArthurWANGZHE)
 **Twitter:** @Arthur_w_z
 
-Projects
+## Projects
 Here are some of the major projects I've had the privilege to be a part of over the years. Each one represents a significant milestone in my journey as a developer:
 
-Mewstore
+### Mewstore
 Mewstore is a multi-platform secondhand trading app that I helped develop. It provides a platform for users to trade items and communicate with each other. The app features a robust registration system that includes SMS-code, email, and ID card verification. It also includes a fully functional chat system. Mewstore is accessible across web, Android, and iOS platforms.
 
 Responsibilities
 I was responsible for the writing and testing of all APIs, as well as iOS development.
 
-Image Classification
+### Image Classification
 Technologies: Python, Computer Vision, Machine Learning, Docker
 This project was my final Computer Vision project in the student society. I experimented with several models including VGG, KNN, ResNet, etc., focusing primarily on the CIFAR-100 dataset. The main goal of this project was to learn and explore different methods through reading papers and testing various approaches.
 
-Person Tracking Drone
+### Person Tracking Drone
 This project was part of a simulation competition. We developed algorithms to control drones, enabling them to search for people on a map. The drones were capable of identifying and tracking specific individuals while avoiding obstacles.
 
 Responsibilities
 I was responsible for working with ROS and overseeing the upper monitor.
 
-DM-Locating
+### DM-Locating
 Technologies: ROS, Python, C++, Machine Vision, Linux
 This project was a collaboration with my professor. Our goal was to develop a cost-effective method for robots to locate DM-codes on boxes in a warehouse. We considered real-world factors such as deviation and misoperation. Through our work, we were able to improve accuracy using algorithmic solutions.
 
